@@ -41,7 +41,7 @@
 ---
 
 ### 🏆 Competitive Programming
-  <a href="https://www.codewars.com/users/romanpie2020" target="_blank">
+  <a href="https://www.codewars.com/users/RomanPie2020" target="_blank">
     <img src="https://www.codewars.com/users/romanpie2020/badges/large" alt="codewars profile"/>
   </a>
   
