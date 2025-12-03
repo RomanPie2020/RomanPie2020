@@ -1,17 +1,13 @@
 <h1 align="center">Welcome 👋, I'm Roman Strykivskyi</h1>
 <h3 align="center">🚀 Passionate Frontend Developer | React & Modern Web Technologies</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romanpie2020&label=Profile%20views&color=0e75b6&style=flat" alt="romanpie2020" />
-</p>
-
 ---
 
 ### 🌟 About Me
 - 💻 Junior Frontend Developer specializing in **React, Next.js, and TypeScript**
 - 🎯 Focused on building **user-friendly, performant, and scalable web applications**
 - 📚 Currently learning **advanced React patterns & testing with Jest**
-- 🌍 Based in Portugal, open to remote opportunities
+- 🌍 Based in Portugal, open to remote and maybe relocation opportunities
 - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
 ---
@@ -44,5 +40,18 @@
 
 ---
 
+### 🏆 Competitive Programming
+  <a href="https://www.codewars.com/users/romanpie2020" target="_blank">
+    <img src="https://www.codewars.com/users/romanpie2020/badges/large" alt="codewars profile"/>
+  </a>
+  
+---
+
 ### 🚀 Featured Projects
 - ✅ **BadmickTogether** – Showcasing my hard skills
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romanpie2020&label=Profile%20views&color=0e75b6&style=flat" alt="romanpie2020" />
+</p>
