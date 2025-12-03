@@ -18,10 +18,10 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/roman-strykivskyi" target="_blank">
+  <a href="www.linkedin.com/in/roman-strykivskyi-301954225" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:roman.strykivskyi@example.com">
+  <a href="mailto:romankaras2004@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/>
   </a>
 </p>
@@ -44,17 +44,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanpie2020&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanpie2020&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Featured Projects
-- 📝 **Portfolio Website** – Showcasing my work and skills
-- ✅ **React To-Do App** – State management with
+- ✅ **BadmickTogether** – Showcasing my hard skills
