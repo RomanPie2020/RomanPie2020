@@ -7,7 +7,7 @@
 - 💻 Frontend Developer specializing in **React, Next.js, and TypeScript**
 - 🎯 Focused on building **user-friendly, performant, and scalable web applications**
 - 📚 Currently learning **advanced React patterns & testing with Jest**
-- 🌍 Based in Portugal, open to remote and maybe relocation opportunities
+- 🌍 Based in Portugal(from Ukraine), open to remote and maybe relocation opportunities
 - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
 ---
