@@ -48,7 +48,8 @@
 ---
 
 ### 🚀 Featured Projects
-- ✅ **BadmickTogether** – Showcasing my hard skills
+- ✅ **BadmickTogether** – Full-stack(PERN) project 
+- ✅ **Job Tracker** – Next.js project
 
 ---
 
