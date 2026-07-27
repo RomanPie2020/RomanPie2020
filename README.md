@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 💻 Full-Stack Developer specializing in **React, Next.js, TypeScript, Node/NestJS, PostgreSQL and Docker**
 - 🎯 Focused on building **user-friendly, performant, and scalable web applications**
-- 📚 Currently learning **advanced React patterns & testing with Jest**
+- 📚 Currently learning **advanced React patterns & microservices**
 - 🌍 Based in Portugal (originally from Ukraine). Open to remote roles and potential relocation.
 - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
