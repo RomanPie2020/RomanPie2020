@@ -1,10 +1,10 @@
 <h1 align="center">Welcome 👋, I'm Roman Strykivskyi</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer with a strong focus on frontend | React & Modern Web Technologies</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | React & Node.js & Modern Web Technologies</h3>
 
 ---
 
 ### 🌟 About Me
-- 💻 Full-Stack Developer specializing in **React, Next.js, TypeScript, Node/Express.js, PostgreSQL and Docker**
+- 💻 Full-Stack Developer specializing in **React, Next.js, TypeScript, Node/NestJS, PostgreSQL and Docker**
 - 🎯 Focused on building **user-friendly, performant, and scalable web applications**
 - 📚 Currently learning **advanced React patterns & testing with Jest**
 - 🌍 Based in Portugal (originally from Ukraine). Open to remote roles and potential relocation.
