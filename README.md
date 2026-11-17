@@ -4,9 +4,9 @@
 ---
 
 ### 🌟 About Me
-- 💻 Full-Stack Developer specializing in **React, Next.js, TypeScript, Node/NestJS, PostgreSQL and Docker**
+- 💻 Full-Stack Developer specializing in **React, Next.js, Vue.js, TypeScript, Node.js, NestJS, PostgreSQL and Docker**
 - 🎯 Focused on building **user-friendly, performant, and scalable web applications**
-- 📚 Currently learning **advanced React patterns & microservices**
+- 📚 Currently learning **advanced system design & microservices patterns**
 - 🌍 Based in Portugal (originally from Ukraine). Open to remote roles and potential relocation.
 - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
@@ -53,7 +53,7 @@
 ---
 
 ### 🚀 Featured Projects
-- ✅ **BadmickTogether** – Full-stack(PERN) project 
+- ✅ **WebStorage** – Full-stack(PERN) project 
 - ✅ **Job Tracker** – Next.js project
 
 ---
